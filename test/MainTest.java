@@ -8,6 +8,6 @@ public class MainTest {
         int resultToTest = Main.sum(33,12);
         assertEquals(45, resultToTest);
         resultToTest = Main.sum(21,10);
-        assertEquals(45, resultToTest);
+        assertEquals(31, resultToTest);
     }
 }
